@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Racheal👩‍💻</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
-- 🌱 I’m currently learning **Solidity** - 👨‍💻 All of my projects are available
-at [https://rachealmuchiri.vercel.app/](https://rachealmuchiri.vercel.app/) - 💬
-Ask me about **Javascript,React,Solidity** - 📫 How to reach me
-**rachealloveo6@gmail.com** - ⚡ Fun fact **I love Cats🐱**
+<p>🌱 I’m currently learning **Solidity**</p>
+<p>💬Ask me about **Javascript,React,Solidity**</p>
+<p>📫 How to reach me **rachealloveo6@gmail.com**</p>
+<p>⚡ Fun fact **I love Cats🐱**</p>
 
 <h3 align="left">Connect with me:</h3>
 <img
