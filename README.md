@@ -86,30 +86,30 @@
       height="30"
       width="40"
   /></a>
-<!--   <a href="https://codeforces.com/profile/racheallove" target="blank"
+  <a href="https://codeforces.com/profile/racheallove" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
       alt="racheallove"
       height="30"
       width="40"
-  /></a> -->
-<!--   <a href="https://www.leetcode.com/racheallove2600" target="blank"
+  /></a>
+  <a href="https://www.leetcode.com/racheallove2600" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="racheallove2600"
       height="30"
       width="40"
-  /></a> -->
-<!--   <a href="https://auth.geeksforgeeks.org/user/rachealyunl" target="blank"
+  /></a>
+  <a href="https://auth.geeksforgeeks.org/user/rachealyunl" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
       alt="rachealyunl"
       height="30"
       width="40"
-  /></a> -->
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
