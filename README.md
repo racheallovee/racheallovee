@@ -7,12 +7,12 @@
 <p>⚡ Fun fact **I love Cats🐱**</p> -->
 
 <h3 align="left">Connect with me:</h3>
-<img
+<!-- <img
   align="right"
   alt="Coding"
   width="400"
   src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/"
-/>
+/> -->
 <p align="left">
   <a href="https://codepen.io/@racheal-nyawira" target="blank"
     ><img
