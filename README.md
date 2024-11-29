@@ -70,14 +70,14 @@
       height="30"
       width="40"
   /></a> -->
-  <a href="https://www.codechef.com/users/bask_sun_86" target="blank"
+<!--   <a href="https://www.codechef.com/users/bask_sun_86" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
       alt="bask_sun_86"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
   <a href="https://www.hackerrank.com/@rachealloveo6" target="blank"
     ><img
       align="center"
