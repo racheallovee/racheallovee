@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Racheal👩‍💻</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
-<p>🌱Currently learning Solidity, Web3, and blockchain technology. Passionate about building deploying smart contracts😎💻 </p>
-<p>💬Ask me about **Javascript,React,Solidity**</p>
+<p>🌱Currently learning Solidity, Web3, and blockchain technology. Passionate about building and deploying smart contracts😎💻 </p>
+<!-- <p>💬Ask me about **Javascript,React,Solidity**</p>
 <p>📫 How to reach me **rachealloveo6@gmail.com**</p>
-<p>⚡ Fun fact **I love Cats🐱**</p>
+<p>⚡ Fun fact **I love Cats🐱**</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <img
