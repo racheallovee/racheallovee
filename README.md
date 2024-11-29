@@ -62,14 +62,14 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://hashnode.com/racheallove" target="blank"
+<!--   <a href="https://hashnode.com/racheallove" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
       alt="racheallove"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
   <a href="https://www.codechef.com/users/bask_sun_86" target="blank"
     ><img
       align="center"
