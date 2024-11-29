@@ -105,7 +105,7 @@
   <a href="https://auth.geeksforgeeks.org/user/rachealyunl" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+<!--       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" -->
       alt="rachealyunl"
       height="30"
       width="40"
