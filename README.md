@@ -142,6 +142,12 @@
       height="40"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+          
+  </a>
+  
 </p>
 
 <h3 align="left">Frontend Development:</h3>
