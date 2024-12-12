@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Racheal👩‍💻</h1>
-<h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
+<h1 align="center">Hey,I'm glad you are here😚</h1>
+<h3 align="center"> I'm a creative and ingenious front-End Developer, who brings solutions to problems by building functional websites👩‍💻</h3>
 
-<p>🌱Currently learning Solidity, Web3, and blockchain technology. Passionate about building and deploying smart contracts😎💻 </p>
+<p> I'm currently learning Solidity, Web3, and blockchain technology </p>
+<p> I’m passionate about DeSci and leveraging Web3 technologies to revolutionize the biology research sector. My goal is to build innovative, decentralized solutions that empower researchers and advance scientific discovery.🦠👩‍🔬⚗🧪🧫🧬💻😎<p/>
 <!-- <p>💬Ask me about **Javascript,React,Solidity**</p>
 <p>📫 How to reach me **rachealloveo6@gmail.com**</p>
 <p>⚡ Fun fact **I love Cats🐱**</p> -->
