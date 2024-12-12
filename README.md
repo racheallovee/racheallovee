@@ -234,7 +234,7 @@
   </a>
 </p>
 
-<h3 align="left">Database:</h3>
+www.typescriptlang.org
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
@@ -263,48 +263,8 @@
   </a>
 </p>
 
-<h3 align="left">Data Visualization:</h3>
-<p align="left">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
 
-<h3 align="left">DevOps:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h3 align="left">Backend as a service(Baas):</h3>
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+
 
 <h3 align="left">Software:</h3>
 <p align="left">
