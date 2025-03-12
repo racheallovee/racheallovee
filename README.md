@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm glad you are here 😊✨</h1>
+<h1 align="center">Hey😊✨</h1>
 <h3 align="center"> I'm a creative and ingenious front-End Developer, who brings solutions to problems by building functional websites👩‍💻</h3>
 
 <p> 👩‍💻I'm currently learning Solidity, Web3, and blockchain technology </p>
